@@ -22,6 +22,8 @@ You can set up your office phone to act as your two-factor verification method.
 
 ## Set up your office phone number as your verification method
 
+The screenshots in the article are incorrect. Office phone cannot be edited. The "if office phone option is grayed out...." is a bit misleading. If office phone is enabled in the mfa registration page drop down, then it is allowed to be setup. However, phone number cannot be edited"
+
 1. On the **Additional security verification** page, select **Office phone** from the **Step 1: How should we contact you** area, select your country or region from the drop-down list, type your office phone number, and then type your extension, if you have one.
 
     ![Additional security verification page, with authentication phone and phone call](media/multi-factor-authentication-verification-methods/multi-factor-authentication-office-phone.png)
